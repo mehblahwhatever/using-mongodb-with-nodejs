@@ -1,0 +1,20 @@
+{
+  "name": "using-mongodb-with-nodejs",
+  "version": "1.0.0",
+  "description": "This project follows the [this tutorial](blog.modulus.io/mongodb-tutorial).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehblahwhatever/using-mongodb-with-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehblahwhatever/using-mongodb-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/mehblahwhatever/using-mongodb-with-nodejs#readme"
+}
